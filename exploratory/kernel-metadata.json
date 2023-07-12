@@ -1,0 +1,15 @@
+{
+  "id": "tomaszszyrowski/icr-data-exploratory",
+  "title": "icr-data-exploratory",
+  "code_file": "icr-data-exploration.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "false",
+  "enable_gpu": "false",
+  "enable_internet": "false",
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": [],
+  "model_sources": [],
+  "competition_sources": ["icr-identify-age-related-conditions"]
+}
